@@ -1,2 +1,1 @@
-# Wordle-Pt.-2
-Codepath Wordle Pt. 2 
+# ios101-project2-wordle-starter
